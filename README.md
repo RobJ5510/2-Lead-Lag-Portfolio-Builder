@@ -1,4 +1,4 @@
-**2-Lead-Lag-Portfolio-Builder**
+**2nd Python Project: Lead Lag Signal Portfolio Builder**
 
 **Description:**
 
